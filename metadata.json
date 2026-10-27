@@ -1,0 +1,6 @@
+{
+  "name": "UCI Ambulancias – Traslados Médicos en Santiago y Chile",
+  "description": "Servicio de ambulancias UCI móvil, traslados médicos críticos y programados, cobertura de eventos y rescate 24/7 en Santiago y todo Chile. 15 años de experiencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
